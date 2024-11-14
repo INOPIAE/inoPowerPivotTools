@@ -8,7 +8,11 @@ Zur Zeit werden alle in PowerPivot angelegten Measures in eine separate Tabelle 
 
 ## Installation
 
-Zunächst wird die Datei `inoPowerPivotTool`.xlsm aus dem Ordner [downlaod](./download/) herunter geladen und entsprechend ablegt.
+Zunächst wird die Datei `inoPowerPivotTool.xlsm` aus dem Ordner [download](./download/inoPowerPivotTool.xlsm) herunter geladen und entsprechend ablegt.
+
+![Sicherheitshinweis](./assets/git_download.png)
+
+Zum Herunterladen auf den amrkierten Bereich klicken.
 
 Nun wird die Datei `inoPowerPivotTool.xlsm` geöffnet.
 
@@ -18,7 +22,7 @@ Nach dem ersten Öffnen erscheint ein Sicherheitshinweis.
 
 Hier bitte `Makros aktivieren` auswählen.
 
-Jetzt ist die Datei einsatz bereit.
+Jetzt ist die Datei einsatzbereit.
 
 ## Nutzung
 
